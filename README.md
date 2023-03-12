@@ -1,4 +1,4 @@
-# Kmeans
+# Kmeans README
 
 O repositório contém a evolução do desenvolvimento de uma atividade avaliativa da disciplina Laboratório de Programação, ministrada pela professora Clédjan Torres. A disciplina faz parte da grade do curso de Ciência da Computação da Universidade Federal do Piauí.
 
